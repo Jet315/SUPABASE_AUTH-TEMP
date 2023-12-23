@@ -247,7 +247,7 @@ export default function Pricing({
                     className="block w-full py-2 mt-8 text-sm font-semibold text-center text-white rounded-md hover:bg-zinc-900"
                   >
                     {subscription ? 'Manage' : 'Subscribe'}
-                  </Button>
+                  </button>
                 </div>
               </div>
             );
